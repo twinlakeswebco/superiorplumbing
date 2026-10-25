@@ -1,0 +1,9 @@
+{
+  "name": "superior-plumbing-preview",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node preview.mjs",
+    "check": "node --check script.js && node --check preview.mjs"
+  }
+}

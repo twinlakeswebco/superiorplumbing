@@ -1,0 +1,325 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-10-25T16:14:04.994889+00:00",
+  "title": "Design System: Superior Plumbing Services",
+  "extensions": {
+    "colorMeta": {
+      "navy": {
+        "role": "primary",
+        "displayName": "Sign Navy",
+        "tonalRamp": [
+          "oklch(15% 0.0733 259.80)",
+          "oklch(26.43% 0.0733 259.80)",
+          "oklch(37.86% 0.0733 259.80)",
+          "oklch(49.29% 0.0733 259.80)",
+          "oklch(60.71% 0.0733 259.80)",
+          "oklch(72.14% 0.0733 259.80)",
+          "oklch(83.57% 0.0733 259.80)",
+          "oklch(95% 0.0733 259.80)"
+        ]
+      },
+      "red": {
+        "role": "primary",
+        "displayName": "Service Red",
+        "tonalRamp": [
+          "oklch(15% 0.1939 23.86)",
+          "oklch(26.43% 0.1939 23.86)",
+          "oklch(37.86% 0.1939 23.86)",
+          "oklch(49.29% 0.1939 23.86)",
+          "oklch(60.71% 0.1939 23.86)",
+          "oklch(72.14% 0.1939 23.86)",
+          "oklch(83.57% 0.1939 23.86)",
+          "oklch(95% 0.1939 23.86)"
+        ]
+      },
+      "red-dark": {
+        "role": "primary",
+        "displayName": "Deep Service Red",
+        "tonalRamp": [
+          "oklch(15% 0.1656 23.55)",
+          "oklch(26.43% 0.1656 23.55)",
+          "oklch(37.86% 0.1656 23.55)",
+          "oklch(49.29% 0.1656 23.55)",
+          "oklch(60.71% 0.1656 23.55)",
+          "oklch(72.14% 0.1656 23.55)",
+          "oklch(83.57% 0.1656 23.55)",
+          "oklch(95% 0.1656 23.55)"
+        ]
+      },
+      "paper": {
+        "role": "neutral",
+        "displayName": "Cool Paper",
+        "tonalRamp": [
+          "oklch(15% 0.0029 264.54)",
+          "oklch(26.43% 0.0029 264.54)",
+          "oklch(37.86% 0.0029 264.54)",
+          "oklch(49.29% 0.0029 264.54)",
+          "oklch(60.71% 0.0029 264.54)",
+          "oklch(72.14% 0.0029 264.54)",
+          "oklch(83.57% 0.0029 264.54)",
+          "oklch(95% 0.0029 264.54)"
+        ]
+      },
+      "white": {
+        "role": "neutral",
+        "displayName": "Painted White",
+        "tonalRamp": [
+          "oklch(15% 0.0000 0.00)",
+          "oklch(26.43% 0.0000 0.00)",
+          "oklch(37.86% 0.0000 0.00)",
+          "oklch(49.29% 0.0000 0.00)",
+          "oklch(60.71% 0.0000 0.00)",
+          "oklch(72.14% 0.0000 0.00)",
+          "oklch(83.57% 0.0000 0.00)",
+          "oklch(95% 0.0000 0.00)"
+        ]
+      },
+      "muted": {
+        "role": "neutral",
+        "displayName": "Slate Copy",
+        "tonalRamp": [
+          "oklch(15% 0.0361 258.91)",
+          "oklch(26.43% 0.0361 258.91)",
+          "oklch(37.86% 0.0361 258.91)",
+          "oklch(49.29% 0.0361 258.91)",
+          "oklch(60.71% 0.0361 258.91)",
+          "oklch(72.14% 0.0361 258.91)",
+          "oklch(83.57% 0.0361 258.91)",
+          "oklch(95% 0.0361 258.91)"
+        ]
+      },
+      "line": {
+        "role": "neutral",
+        "displayName": "Divider Gray",
+        "tonalRamp": [
+          "oklch(15% 0.0110 256.70)",
+          "oklch(26.43% 0.0110 256.70)",
+          "oklch(37.86% 0.0110 256.70)",
+          "oklch(49.29% 0.0110 256.70)",
+          "oklch(60.71% 0.0110 256.70)",
+          "oklch(72.14% 0.0110 256.70)",
+          "oklch(83.57% 0.0110 256.70)",
+          "oklch(95% 0.0110 256.70)"
+        ]
+      },
+      "ink-soft": {
+        "role": "neutral",
+        "displayName": "Pale Navy Ink",
+        "tonalRamp": [
+          "oklch(15% 0.0247 259.82)",
+          "oklch(26.43% 0.0247 259.82)",
+          "oklch(37.86% 0.0247 259.82)",
+          "oklch(49.29% 0.0247 259.82)",
+          "oklch(60.71% 0.0247 259.82)",
+          "oklch(72.14% 0.0247 259.82)",
+          "oklch(83.57% 0.0247 259.82)",
+          "oklch(95% 0.0247 259.82)"
+        ]
+      },
+      "focus": {
+        "role": "neutral",
+        "displayName": "Keyboard Focus",
+        "tonalRamp": [
+          "oklch(15% 0.1485 251.73)",
+          "oklch(26.43% 0.1485 251.73)",
+          "oklch(37.86% 0.1485 251.73)",
+          "oklch(49.29% 0.1485 251.73)",
+          "oklch(60.71% 0.1485 251.73)",
+          "oklch(72.14% 0.1485 251.73)",
+          "oklch(83.57% 0.1485 251.73)",
+          "oklch(95% 0.1485 251.73)"
+        ]
+      },
+      "white-hover": {
+        "role": "neutral",
+        "displayName": "White Hover",
+        "tonalRamp": [
+          "oklch(15% 0.0109 256.70)",
+          "oklch(26.43% 0.0109 256.70)",
+          "oklch(37.86% 0.0109 256.70)",
+          "oklch(49.29% 0.0109 256.70)",
+          "oklch(60.71% 0.0109 256.70)",
+          "oklch(72.14% 0.0109 256.70)",
+          "oklch(83.57% 0.0109 256.70)",
+          "oklch(95% 0.0109 256.70)"
+        ]
+      },
+      "tab-selected": {
+        "role": "neutral",
+        "displayName": "Selected Tab",
+        "tonalRamp": [
+          "oklch(15% 0.0080 253.85)",
+          "oklch(26.43% 0.0080 253.85)",
+          "oklch(37.86% 0.0080 253.85)",
+          "oklch(49.29% 0.0080 253.85)",
+          "oklch(60.71% 0.0080 253.85)",
+          "oklch(72.14% 0.0080 253.85)",
+          "oklch(83.57% 0.0080 253.85)",
+          "oklch(95% 0.0080 253.85)"
+        ]
+      },
+      "tab-hover": {
+        "role": "neutral",
+        "displayName": "Tab Hover",
+        "tonalRamp": [
+          "oklch(15% 0.0144 254.61)",
+          "oklch(26.43% 0.0144 254.61)",
+          "oklch(37.86% 0.0144 254.61)",
+          "oklch(49.29% 0.0144 254.61)",
+          "oklch(60.71% 0.0144 254.61)",
+          "oklch(72.14% 0.0144 254.61)",
+          "oklch(83.57% 0.0144 254.61)",
+          "oklch(95% 0.0144 254.61)"
+        ]
+      }
+    },
+    "typographyMeta": {
+      "display": {
+        "displayName": "Hero Display",
+        "purpose": "Homepage headline; responsive sizes override the base clamp."
+      },
+      "headline": {
+        "displayName": "Section Headline",
+        "purpose": "Major content section headings."
+      },
+      "title": {
+        "displayName": "Service Title",
+        "purpose": "Service disclosure titles."
+      },
+      "body": {
+        "displayName": "Body",
+        "purpose": "Base reading text."
+      },
+      "label": {
+        "displayName": "Action Label",
+        "purpose": "Buttons and prominent text links."
+      }
+    },
+    "shadows": [],
+    "motion": [
+      {
+        "name": "control-color",
+        "value": "background .2s, color .2s",
+        "purpose": "Button hover transitions."
+      },
+      {
+        "name": "tab-background",
+        "value": "background .18s",
+        "purpose": "Project tab hover transition."
+      },
+      {
+        "name": "disclosure",
+        "value": "transform .2s",
+        "purpose": "Plus-to-minus disclosure indicator."
+      },
+      {
+        "name": "project-reveal",
+        "value": ".45s cubic-bezier(.16,1,.3,1)",
+        "purpose": "Image clip-path reveal only when reduced motion is not requested."
+      }
+    ],
+    "breakpoints": [
+      {
+        "name": "wide-min",
+        "value": "1500px"
+      },
+      {
+        "name": "compact-max",
+        "value": "1100px"
+      },
+      {
+        "name": "tablet-max",
+        "value": "800px"
+      },
+      {
+        "name": "mobile-max",
+        "value": "540px"
+      }
+    ]
+  },
+  "components": [
+    {
+      "name": "Primary Button",
+      "kind": "button",
+      "refersTo": "button-primary",
+      "description": "Rectangular contact or booking anchor.",
+      "html": "<a class=\"ds-button-primary\" href=\"#\">Book a service <svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><path d=\"M5 12h14m-6-6 6 6-6 6\"/></svg></a>",
+      "css": ".ds-button-primary{display:inline-flex;align-items:center;justify-content:center;gap:24px;min-height:52px;padding:14px 22px;font-size:14px;font-weight:650;line-height:1.6;text-decoration:none;transition:background .2s,color .2s;font-family:var(--font,Geist,Arial,sans-serif);background:var(--red,#ba1527);color:var(--white,#fff);}.ds-button-primary:hover{background:var(--red-dark,#97101f);}.ds-button-primary:focus-visible{outline:3px solid var(--focus,#287cce);outline-offset:6px;}.ds-button-primary svg{width:22px;height:22px;fill:none;stroke:currentColor;stroke-width:1.7;stroke-linecap:round;stroke-linejoin:round;flex-shrink:0;}@media(prefers-reduced-motion:reduce){.ds-button-primary{transition:none;}}"
+    },
+    {
+      "name": "White Button",
+      "kind": "button",
+      "refersTo": "button-white",
+      "description": "Rectangular contact or booking anchor.",
+      "html": "<a class=\"ds-button-white\" href=\"#\">Book a service <svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><path d=\"M5 12h14m-6-6 6 6-6 6\"/></svg></a>",
+      "css": ".ds-button-white{display:inline-flex;align-items:center;justify-content:center;gap:24px;min-height:52px;padding:14px 22px;font-size:14px;font-weight:650;line-height:1.6;text-decoration:none;transition:background .2s,color .2s;font-family:var(--font,Geist,Arial,sans-serif);background:var(--white,#fff);color:var(--navy,#0b2145);}.ds-button-white:hover{background:#e4e9f0;}.ds-button-white:focus-visible{outline:3px solid var(--focus,#287cce);outline-offset:6px;}.ds-button-white svg{width:22px;height:22px;fill:none;stroke:currentColor;stroke-width:1.7;stroke-linecap:round;stroke-linejoin:round;flex-shrink:0;}@media(prefers-reduced-motion:reduce){.ds-button-white{transition:none;}}"
+    },
+    {
+      "name": "Text Link",
+      "kind": "button",
+      "refersTo": "text-link",
+      "description": "Unboxed route to more information or a contact action.",
+      "html": "<a class=\"ds-text-link\" href=\"#\">See how we can help <svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><path d=\"M5 12h14m-6-6 6 6-6 6\"/></svg></a>",
+      "css": ".ds-text-link{display:inline-flex;align-items:center;gap:16px;font-size:14px;font-weight:650;line-height:1.6;text-decoration:none;color:var(--navy,#0b2145);font-family:var(--font,Geist,Arial,sans-serif);}.ds-text-link:hover{color:var(--red,#ba1527);}.ds-text-link:focus-visible{outline:3px solid var(--focus,#287cce);outline-offset:6px;}.ds-text-link svg{width:22px;height:22px;fill:none;stroke:currentColor;stroke-width:1.7;stroke-linecap:round;stroke-linejoin:round;flex-shrink:0;}"
+    },
+    {
+      "name": "Primary Navigation",
+      "kind": "nav",
+      "description": "Desktop navigation with explicit current-page treatment.",
+      "html": "<nav class=\"ds-nav\" aria-label=\"Example navigation\"><a href=\"#\" aria-current=\"page\">Home</a><a href=\"#\">Services</a><a href=\"#\">Our work</a></nav>",
+      "css": ".ds-nav{display:flex;flex-wrap:wrap;gap:clamp(18px,2.1vw,32px);align-items:center;font-family:var(--font,Geist,Arial,sans-serif);}.ds-nav a{color:var(--navy,#0b2145);font-size:14px;font-weight:550;line-height:1.6;text-decoration:none;padding:10px 0;}.ds-nav a:hover,.ds-nav a[aria-current]{color:var(--red,#ba1527);}.ds-nav a[aria-current]{text-decoration:underline;text-decoration-thickness:2px;text-underline-offset:5px;}.ds-nav a:focus-visible{outline:3px solid var(--focus,#287cce);outline-offset:6px;}"
+    },
+    {
+      "name": "Project Tabs",
+      "kind": "custom",
+      "refersTo": "project-tab",
+      "description": "Visual state sample of the project selector; source JavaScript supplies selection and keyboard behavior.",
+      "html": "<div class=\"ds-tabs\" role=\"tablist\" aria-label=\"Project examples\"><button role=\"tab\" aria-selected=\"true\">Water heaters</button><button role=\"tab\" aria-selected=\"false\" tabindex=\"-1\">Fixtures</button><button role=\"tab\" aria-selected=\"false\" tabindex=\"-1\">Pipework</button></div>",
+      "css": ".ds-tabs{display:flex;background:var(--paper,#f4f5f7);}.ds-tabs button{flex:1;padding:14px 8px;border:0;border-bottom:3px solid transparent;background:transparent;color:var(--muted,#536074);font-size:12px;font-weight:600;line-height:1.6;cursor:pointer;transition:background .18s;font-family:var(--font,Geist,Arial,sans-serif);}.ds-tabs button[aria-selected=true]{border-color:var(--red,#ba1527);color:var(--navy,#0b2145);background:#e9edf2;}.ds-tabs button:hover{background:#dce3ec;}.ds-tabs button:focus-visible{outline:3px solid var(--focus,#287cce);outline-offset:6px;}@media(prefers-reduced-motion:reduce){.ds-tabs button{transition:none;}}"
+    },
+    {
+      "name": "Service Disclosure",
+      "kind": "custom",
+      "description": "Native details disclosure with thin dividers and a plus/minus indicator.",
+      "html": "<div class=\"ds-disclosures\"><details><summary>Water heaters<span class=\"ds-expand\" aria-hidden=\"true\"></span></summary><p>Traditional or tankless, gas or electric. Talk with us about repairs, replacement, or an upgrade that fits your property.</p></details></div>",
+      "css": ".ds-disclosures{border-top:1px solid var(--navy,#0b2145);color:var(--navy,#0b2145);font-family:var(--font,Geist,Arial,sans-serif);}.ds-disclosures details{border-bottom:1px solid var(--line,#d5dae1);}.ds-disclosures summary{list-style:none;cursor:pointer;display:flex;justify-content:space-between;align-items:center;gap:24px;padding:26px 0;font-size:23px;font-weight:700;line-height:1.1;letter-spacing:-.035em;}.ds-disclosures summary::-webkit-details-marker{display:none;}.ds-disclosures summary:hover{color:var(--red,#ba1527);}.ds-disclosures summary:focus-visible{outline:3px solid var(--focus,#287cce);outline-offset:6px;}.ds-expand{position:relative;flex-shrink:0;width:20px;height:20px;}.ds-expand:before,.ds-expand:after{position:absolute;content:\"\";background:currentColor;width:16px;height:1.5px;left:2px;top:9px;}.ds-expand:after{transform:rotate(90deg);transition:transform .2s;}.ds-disclosures details[open] .ds-expand:after{transform:rotate(0deg);}.ds-disclosures p{margin:0;padding:0 35px 28px 0;font-size:15px;line-height:1.6;color:var(--muted,#536074);}@media(prefers-reduced-motion:reduce){.ds-expand:after{transition:none;}}"
+    },
+    {
+      "name": "Contact Panel",
+      "kind": "custom",
+      "refersTo": "contact-panel",
+      "description": "Navy contact surface with direct telephone and text routes.",
+      "html": "<div class=\"ds-contact\"><h2>Let\u2019s get it<br>taken care of.</h2><p>Tell us what\u2019s going on.<br>We\u2019ll take it from there.</p><a href=\"tel:+12702960733\">270-296-0733</a></div>",
+      "css": ".ds-contact{background:var(--navy,#0b2145);color:var(--white,#fff);padding:32px 36px;display:flex;flex-direction:column;align-items:flex-start;font-family:var(--font,Geist,Arial,sans-serif);}.ds-contact h2{margin:0 0 16px;font-size:38px;font-weight:700;line-height:1.1;letter-spacing:-.035em;}.ds-contact p{margin:0;color:var(--ink-soft,#c9d3e3);font-size:14px;line-height:1.7;}.ds-contact a{color:inherit;margin-top:auto;padding-top:28px;font-size:clamp(23px,2.1vw,31px);font-weight:600;letter-spacing:-.035em;line-height:1.6;text-decoration:none;}.ds-contact a:focus-visible{outline:3px solid var(--focus,#287cce);outline-offset:6px;}"
+    }
+  ],
+  "narrative": {
+    "northStar": "The Neighborhood Trade Sign",
+    "overview": "The neighborhood trade sign is the visual anchor: white ground, deep navy lettering, true red action areas, and crisp rectangular photographs. The code-led build preserves the supplied logo and actual job assets, giving the business\u2019s own identity and work the strongest visual presence.\n\nGenerous spacing separates dense, practical contact information from large headings and installation photographs. Flat color planes and thin rules organize the page; restrained transitions acknowledge interaction without competing with the work.",
+    "keyCharacteristics": [
+      "White, navy, and red drawn from the supplied identity.",
+      "Self-hosted Geist with strong headings and compact practical labels.",
+      "Rectangular photography, flat panels, and thin dividing rules.",
+      "Visible contact routes and accessible native or progressively enhanced controls."
+    ],
+    "rules": [
+      {
+        "name": "The Identity First Rule",
+        "body": "Preserve the supplied logo and the navy/red/white relationship when extending the site.",
+        "section": "colors"
+      }
+    ],
+    "dos": [
+      "Do preserve the supplied logo and actual job photographs.",
+      "Do use navy for primary text and red for action areas and deliberate emphasis.",
+      "Do keep rectangular media and panels, thin rules, and generous section spacing.",
+      "Do retain visible keyboard focus, semantic controls, and reduced-motion support."
+    ],
+    "donts": [
+      "Don\u2019t replace the actual installation photography with generic trade imagery.",
+      "Don\u2019t introduce rounded cards, floating shadows, or gradient surfaces into this established system.",
+      "Don\u2019t remove image descriptions or obscure contact actions when layouts stack.",
+      "Don\u2019t treat preview notices, project-caption labels, or the 404 numeral as a general decorative label system."
+    ]
+  }
+}

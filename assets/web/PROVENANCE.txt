@@ -1,0 +1,1 @@
+All WebP images are resized, orientation-corrected copies of the corresponding original files in assets/, supplied by the user for Superior Plumbing Services. Created with sharp at quality 82, maximum width 1200 pixels (logo: 500 pixels). No generated or stock photography is used. Original files are preserved.
